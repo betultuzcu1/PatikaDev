@@ -23,8 +23,6 @@ public class Main {
                 double avg=sum/count;
                 System.out.println("Ortalama:"+avg);
             }
-
         }
-
     }
 }
